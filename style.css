@@ -1,0 +1,10 @@
+h1.h5 {
+	color: red;
+	padding: 10px;
+	border:1px solid #ccc;
+	font-size:40px;
+}
+
+.card{
+	width: 400px;
+}
